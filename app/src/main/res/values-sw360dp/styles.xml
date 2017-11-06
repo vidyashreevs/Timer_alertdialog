@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColorPrimary">#000</item>
+        <item name="color">#ffff</item>
+        <item name="windowFixedWidthMinor">80%</item>
+        <item name="windowFixedHeightMajor">90%</item>
+    </style>
+
+    <style name="NumberPickerText">
+        <item name="android:textSize">15dp</item>
+    </style>
+
+    <style name="MyDialogTheme1" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColorPrimary">#000</item>
+        <item name="color">#ffff</item>
+        <item name="windowFixedWidthMinor">80%</item>
+        <item name="windowFixedHeightMajor">90%</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+//timer
+    <dimen name="height1">40dp</dimen>
+    <dimen name="height2">450dp</dimen>
+    <dimen name="height3">55dp</dimen>
+    <dimen name="numh">100dp</dimen>
+    <dimen name="setopr_timerlist_txt">8dp</dimen>
+    <dimen name="txt">15dp</dimen>
+    <dimen name="subtxt">12dp</dimen>
+    <dimen name="Repeat_cyclic_txt">12dp</dimen>
+    <dimen name="onoff">10dp</dimen>
+
+    <dimen name="divdw">0dp</dimen>
+    <dimen name="divdh">0dp</dimen>
+    <dimen name="rtxt">10dp</dimen>
+
+</resources>
